@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<strings>
+    
+    <string id="loadingID">
+        <localization lang="rus">Загрузка...</localization>
+        <localization lang="en">Loading...</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="startID">
+        <localization lang="rus">Старт</localization>
+        <localization lang="en">START</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="enID">
+        <localization lang="rus">Английский</localization>
+        <localization lang="en">English</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="rusID">
+        <localization lang="rus">Русский</localization>
+        <localization lang="en">Russian</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="scoreID">
+        <localization lang="rus">Очки: </localization>
+        <localization lang="en">Score: </localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="levelID">
+        <localization lang="rus">Уровень </localization>
+        <localization lang="en">Level </localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+// SceneResult
+
+    <string id="winID">
+        <localization lang="rus">ПОБЕДА</localization>
+        <localization lang="en">YOU WIN</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="loseID">
+        <localization lang="rus">ПРОИГРЫШ</localization>
+        <localization lang="en">YOU LOSE</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+    <string id="replayID">
+        <localization lang="rus">Еще раз</localization>
+        <localization lang="en">Replay</localization>
+        <localization lang="zh"></localization>
+    </string>
+    
+</strings>
+
